@@ -25,7 +25,7 @@ Contributions are welcome! Here's how you can contribute:
 - Update company links if they change.
 - If a company no longer fits the criteria, consider removing or archiving it in the document.
 
-## Companies List
+## Companies List.
 
 Check the [jobs.md](jobs.md) file for the current list of companies.
 
